@@ -16,7 +16,7 @@ st.sidebar.header("Settings")
 
 # Πολλαπλά Forex pairs
 all_pairs = [
-    "NZDUSD=X", "AUDUSD=X", "EURUSD=X", "GBPUSD=X", "USDJPY=X", "USDCAD=X", "USDCHF=X", "AUDNZD=X"
+    "NZDUSD=X", "AUDUSD=X", "EURUSD=X", "GBPUSD=X", "EURAUD=X", "EURNZD=X", "EURJPY=X", "GBPJPY=X"
 ]
 
 selected_pairs = st.sidebar.multiselect(
